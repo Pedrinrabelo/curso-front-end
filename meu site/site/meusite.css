@@ -1,0 +1,64 @@
+.row{
+
+    width: 100%;
+    height: 100%;
+}
+.col{
+    height: 100%;
+}
+
+
+
+.nav1{
+width: 102%;
+height: 790px;
+background-color: white;
+padding: 140px;
+
+
+}
+
+
+.nav2{
+width: 102%;
+height: 790px;
+background-image: url(https://novonegocio.com.br/wp-content/uploads/2012/07/web_designer.jpg);
+background-repeat: no-repeat;
+
+
+}
+
+
+.nome{
+    font-family: 'Poppins', sans-serif;
+font-size: 80px;
+font-weight: 700px;
+line-height: 96px;
+text-size-adjust: 100%;
+vertical-align: baseline;
+}
+
+.div1{
+background-color: white;
+width: 102%;
+height: 790px;
+}
+
+.div2{
+    background-color: white;
+    width: 102%;
+    height: 790px;
+}
+
+
+.card img{
+height: 200px;
+    
+}
+
+.counteudo2 .row{
+padding-left: 70px;
+
+
+}
+
